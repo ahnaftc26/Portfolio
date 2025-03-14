@@ -50,3 +50,18 @@ footer p{
   text-align: center;
   font-size: 12px;
 }
+.single-experience{
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 5px;
+  height: 80%;
+}
+#full-stack{
+  border-left: 7px solid;
+  border-image: linear-gradient(180deg, lightsalmon,tomato);
+  border-image-slice: 1;
+}
+#noob-web{
+  border-left: 7px solid;
+  border-image: linear-gradient( rgb(122, 255, 248),rgb(71, 154, 255));
+  border-image-slice: 1;
+}
